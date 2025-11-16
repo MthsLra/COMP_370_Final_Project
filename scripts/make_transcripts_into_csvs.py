@@ -17,13 +17,17 @@ def make_df(filename):
             (line[:3] == '**(' and line[-3:] == ')**') or (line[:3] == '**[' and line[-3:] == ']**')):
             continue # description line
         if ("end credits" in line.lower() or line == 'Prologue' or line == 'Introduction' 
-            or line == 'THE END' or line.split(" ")[0] == 'Part' or line.split(" ")[0] == 'Act'):
+            or line == 'THE END' or line == '**THE END**' or line == 'EARLIER THAT DAY'
+            or line.split(" ")[0] == 'Part' or line.split(" ")[0] == 'Act' 
+            or (line[:2] == '**' and line[-2:] == '**' and line.upper() == line)):
             continue
         if '♪' in line:
             continue # we're skipping all song lines
         # remove anything that is of the form **(Song: smt)** (Song: smt)
         line = re.sub(r'\*\*\(Song: [^)]*\)\*\*', '', line).strip()
         line = re.sub(r'\(Song: [^)]*\)', '', line).strip()
+        if line == '**"**' or line == "**'**" or line == "'" or line == ")":  # sometimes, there are extra apostrophes
+            continue
 
         # now find the dialog
         if line.startswith('**'):
