@@ -26,6 +26,11 @@ def get_transcript_text(html_text):
         # these are sometimes use as line breaks instead of \n
         for br in p.find_all('br'): 
             br.replace_with('\n')
+        # additionally, find all the bold characters, these are always the speaker name
+        for b_tag in p.find_all('b'):
+            # replace <b> content with a new string with the marker **
+            new_text = f"**{b_tag.text.strip()}**"
+            b_tag.replace_with(new_text)
         # now add the text
         transcript_text += p.text + "\n"
 

@@ -1,5 +1,5 @@
 Name,Dialog
-Candace,"MOOOOOOOOOOOM!!! Look! Look, look! In the backyard! Look! They've done it again!"
+Candace: MOOOOOOOOOOOM!!,"Look! Look, look! In the backyard! Look! They've done it again!"
 Linda,Just let me drop off the groceries.
 Isabella,"This was the best ride ever, guys."
 Astronaut,"(in Russian accent) Ohh, that was very fabulous ride. Now can you send us back to space station perhaps?"
@@ -28,13 +28,13 @@ Phineas,"Oh, good. Our stuff is here."
 Candace,Already?
 Candace,"Yeah, well... (The Bust 'Em truck arrives in the background) Okay, okay. You guys keep doing whatever it is you guys do."
 Phineas,"That seemed oddly out of character. Hey, where's Perry?"
-Major Monogram,"Good morning, Agent P. It's a beautiful day in the Tri-State area, just the kind of day that makes Dr. Doofenshmirtz a little verklempt. That's why your mission is...Sky... (Static) weather... (Static) rain... (Static) Doofenshmirtz. Uh, we're breaking up. Let me call you on a land line. (telephone rings) So, just to recap"
+Major Monogram,"Good morning, Agent P. It's a beautiful day in the Tri-State area, just the kind of day that makes Dr. Doofenshmirtz a little verklempt. That's why your mission is...Sky... (Static) weather... (Static) rain... (Static) Doofenshmirtz. Uh, we're breaking up. Let me call you on a land line. (telephone rings) So, just to recap: sky, weather, rain, Doofenshmirtz."
 Woman,(whispering) Are you Candace?
 Candace,Yes.
 Woman,"(whispering) Get in. We're from the TV show. (cuts to inside the truck, normal voice) My name is Lulu Jones, and this is my assistant, Fifi."
-Fifi,Hi there.
+Woman,Fifi**:** Hi there.
 Candace,So you really think you can bust my brothers?
-Lulu,"Ha-ha-ha. You're so cute. Isn't she cute, Fifi?"
+Candace,"Lulu**:** Ha-ha-ha. You're so cute. Isn't she cute, Fifi?"
 Fifi,"Oh, yes, she is. Ha-ha-ha!"
 Lulu,"You see, Candace, busting is my middle name. It's my actual name. Lulu ""Busting"" Jones. I was born for this job."
 Candace,But you have no idea what my brothers are capable of.
@@ -120,4 +120,4 @@ Candace,"(Cuts to Candace and Lulu sitting on the doorstep, with Candace holding
 Candace,Now you can understand my pain. Want some pie?
 Doofenshmirtz,"I'm getting dizzy! Oh! Maybe I'm supposed to turn into a skid. (He does so, flying out of the tornado) Whoa!"
 Farmer's Wife,I can't believe you sold our lucrative bunny farm and bought a van rental place! And you didn't buy a single van! (Hears the van falling over her) Not one word...
-Farmer's Wife,BAM!
+BAM,
