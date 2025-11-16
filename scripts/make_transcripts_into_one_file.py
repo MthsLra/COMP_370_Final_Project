@@ -36,7 +36,7 @@ def main():
     # now concatenate all of these df's
     df = pd.concat(df_list, ignore_index=True)
     df.to_csv(args.one_file_csv_name, index=False)
-    # df['Name'].value_counts().to_csv("name_value_counts.csv")
+    # df['Name'].value_counts().to_csv("data/name_value_counts.csv")
 
 
 if __name__ == "__main__":

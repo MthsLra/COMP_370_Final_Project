@@ -328,7 +328,7 @@ Season,Episode,Name,Dialog
 1,4,Isabella,Well... I know a few people who work well together.
 1,4,Phineas,"Great! You're hired! See you at the track. (To Ferb) Hey Ferb, where's Perry?"
 1,4,Major Monogram,"Good morning, Agent P. The evil Dr. Doofenshmirtz is up to his old tricks. For reasons completely unknown, he's purchased a giant airship or blimp, as the kids say. Your mission is to find out why, and if necessary, put a stop to it."
-1,4,Isabella,"(Dreamily) Hi, Phineas. I got your pit crew. (Show the Fireside Girls lined up behind Isabella)"
+1,4,Isabella,"(Dreamily) Hi, Phineas. I got your pit crew."
 1,4,Phineas,Cool! See ya in the pits.
 1,4,Isabella,"Okay, girls. We're dealing with a 426 cubic inch, fully-blown V8, with hypo lifters, radical cam, and a limited-slip differential."
 1,4,Gretchen,Would that be electronically fuel-injected?
@@ -699,7 +699,7 @@ Season,Episode,Name,Dialog
 1,7,Linda,"(tries to climb the stairs) You know, Candace, this is the second time I've climbed up there! I'm already down half a dress size!"
 1,7,Candace,Come on! Hurry!
 1,7,Doofenshmirtz,"Aah! (Perry locks the Drill-inator's target onto the Old Reliable Geyser and jumps off) Wait, where are you going? Aah! (The Drill-inator lands on the geyser) I'm okay, I -- (spins around and gets flung away) AAH! Fie upon you, Perry the Platypuuuuus! (Perry parachutes down to safety)"
-1,7,Candace,"Hurry, Mom! You won't believe it! (Spots of lava form on the statue)...Huh? (Lava bursts out of the spots on the statue; Gasps) Ewwwww! (More lava bursts out. She gets shocked. The statue explodes as an orchestra plays music to match the feeling and Phineas and Ferb roast hot dogs on the lava. Water from the geyser spurts out from under the Drill-inator at the lava, cooling it; Her expression changes to depression.)"
+1,7,Candace,"Hurry, Mom! You won't believe it! (Spots of lava form on the statue)...Huh?"
 1,7,Linda,"Whew! Finally made it, honey! Now, what is it you wanted me to see?"
 1,7,Candace,"Bu...bu...! (Camera shows the lava smoke vanishing, revealing the normal monument, no Candace statue and all)"
 1,7,Linda,"You're right! It's beautiful! (hugs her) Happy birthday, honey. (Kisses Candace's cheek) Now let's go find your father. (She walks away)"
@@ -1831,10 +1831,12 @@ Season,Episode,Name,Dialog
 1,20,Candace,"Yes! That sounds do-able! Why not pick me up around noon? Okay! Goodbye. (hangs up, dials Stacy) Oh, my gosh! Guess who just called and asked me out on a date!"
 1,20,Stacy,(On phone) Who!?
 1,20,Candace,Jeremy!
-1,20,Stacy,(On phone) Ahh! Candace
+1,20,Stacy,(On phone) Ahh!
+1,20,Candace,Ahh! (2x)
 1,20,Stacy,(On phone) Hold on! Let's conference in Jenny!
 1,20,Candace,Okay! (dials) Ahh!
-1,20,Stacy/Jenny,(On phone) Ahh! Candace
+1,20,Stacy/Jenny,(On phone) Ahh!
+1,20,Candace,Ahh! (4x)
 1,20,Phineas,(overlapping) Let's go outside!!
 1,20,Phineas,"(The boys now sit under their tree) Submarine, shrinking ray. I just can't make up my mind!"
 1,20,Isabella,(offscreen) What'cha doooin'?
@@ -3098,7 +3100,7 @@ Season,Episode,Name,Dialog
 1,29,Phineas,"They say if you love something, let it go."
 1,29,Ferb,Especially if it's a caveman.
 1,29,Phineas,Yeah. Especially if it's a caveman.
-1,30,Phineas,"How's the view up there, Ferb?(Ferb gives a thumbs up)"
+1,30,Phineas,"How's the view up there, Ferb?"
 1,30,Phineas,"This is the life. The sand, the sea, the sun."
 1,30,Buford,(Sobbing)
 1,30,Phineas,"The crying? Hey, what's wrong, Buford? Why are you crying?"
@@ -3595,7 +3597,7 @@ Season,Episode,Name,Dialog
 1,34,Baljeet,"Buford, no! That would be cheating."
 1,34,Buford,Heh-heh-heh-heh. Boys rule!
 1,34,Candace,"Aah, my hair! Jeremy's gonna see my hair!"
-1,34,(Isabella spins Candace; ball whistling. Ball ricochets off Candace flying towards Buford)Buford,"Uh-oh. (Ball hits his stomach, which goes flying and ends up crashing the wall of the territory) WHOOOH!"
+1,34,Buford,"Uh-oh. (Ball hits his stomach, which goes flying and ends up crashing the wall of the territory) WHOOOH!"
 1,34,Phineas,They've done it! The girls have snatched victory from the jaws of defeat!
 1,34,Jeremy,"Wow, Candace, your hair looks great."
 1,34,Candace,(giggles) Really?
@@ -3681,7 +3683,7 @@ Season,Episode,Name,Dialog
 1,35,Candace,Squirrels! Squirrels!
 1,35,Candace,Squirrels in my pants!
 1,35,Candace,Squirrels! Squirrels!
-1,35,"(Candace screams and collapses, and the squirrels exit climb up the legs and jump out)Performer 1","Wow, she had actual squirrels in her pants."
+1,35,Performer 1,"Wow, she had actual squirrels in her pants."
 1,35,Street Performer 2,We just got served.
 1,35,Doofenshmirtz,"One moment, please.  (Doofenshmirtz comes out wearing two steaks as glasses) Perry the Platypus? What are you looking at? Oh, these. Yes, these are my latest invention - steak specs. I came up with the idea after your last little visit. (Doofenshmirtz shows Perry his black eye) With these on, you don't have to constantly hold a piece of steak to your black eye. See? See? I plan on mass-producing these. I'll make millions. Let me show you. (He shows Perry a containment unit for all the steaks) I've stolen all the steaks in the Tri-State Area, and I keep them here in my steak containment unit or SCU (Pronounced skʰʌ), for short, or maybe it should be SCU (Pronounced skʰu). I'm a little on the fence about - Wait. What are you doing? (Perry pulls down a she, revealing an -inator) Oh, that? That's just a giant heat ray in case I want to do something evil later."
 1,35,Jeremy,"Why don't you stay here with Suzy, and I'll go buy you some ice cream?"
@@ -3791,7 +3793,7 @@ Season,Episode,Name,Dialog
 1,36,Stacy,"Well, okay, but--"
 1,36,Phineas,Great!
 1,36,Phineas,"So, Stacy, what was it you were gonna tell us?"
-1,36,Stacy,"Oh, right, well, Candace is gonna... call...!(The gang falls into an air hockey golf hole...literally it's hockey but they're floating on air)"
+1,36,Stacy,"Oh, right, well, Candace is gonna... call...!"
 1,36,Stacy,"What kind of hole is this, anyway?"
 1,36,Phineas,It's the air hockey hole. Check it out.
 1,36,Stacy,Wicked!
@@ -4446,6 +4448,7 @@ Season,Episode,Name,Dialog
 1,42,Phineas,"Hi, Candace. You're just in time to help us record the voices."
 1,42,Candace,There is no way on Earth I'd ever help you.
 1,42,Phineas,"Cut and print. That's why we call her ""One-Take Flynn""."
+1,42,Phineas,"(Laughs maniacally) Something tells me that you might have seen this month's Evil Beat! magazine, eh? Wait, wait, wait. Look. Look. It's like there's two of me. You see? Hmm? Huh? I suppose you're wondering how I harnessed the power of dance. Well, to be honest, it was not so much on purpose. What happened was my dryer broke, so I was trying to create a ray that would instantly dry my clothes. But instead, well, look. (Bouncy music as the clothes dance) Still sopping wet, by the way. Turns out anything I hit with the ray starts dancing. For instance, a dryer repairman."
 1,42,Dryer Repairman,Help! I can't stop getting down! Ohh!
 1,42,Doofenshmirtz,"Quiet, you."
 1,42,Dryer Repairman,"Ah, sweet, horrible self-expression through movement!"
@@ -6423,6 +6426,7 @@ Season,Episode,Name,Dialog
 2,9,Candace,Hi.
 2,9,Jeremy,Hi. Ready?
 2,9,Candace,"I'm, like, so looking forward to tonight. A special evening, just the two of us. So, what do you have planned? Horseback riding? I just love horseback riding. Oh, you stopped."
+2,9,Candace,)
 2,9,Jeremy,"Ta-da! Your brothers have opened the trendiest restaurant in town, and this is where I'm taking you."
 2,9,Candace,"Oh. Uh, really? Heh. How... fun."
 2,9,Jeremy,"Well, i-if you prefer to do something else..."
@@ -7338,13 +7342,16 @@ Season,Episode,Name,Dialog
 2,17,Doofenshmirtz,I am not here to apply for an internship. (looks at the first sheet) Ooh! You offer maternity leave.
 2,17,The Regurgitator,"You can start by making a fresh pot of coffee! (Thunder, lightning, and dramatic music happens again.)"
 2,17,Phineas,"Nope, Ferb, not Perry. This little guy's eyes are too close together and his beak is orange. Perry's is more of a tangerine."
-2,17,Phineas,"Nope, too fat.Too thin.Too cartoon-y."
+2,17,Phineas,"Nope, too fat."
+2,17,Phineas,Too thin.
+2,17,Phineas,Too cartoon-y.
 2,17,Phineas,"(Holds nose) Whoa, that one smells like meatloaf!"
 2,17,Candace,"(walking around town) Perry? Perry the Platypus! Huh? (notices a tail sticking around a nearby corner.) Perry! Get over here. (runs over and pulls on the tail) You're coming home with me so I won't get in trouble with the… (A woman taps her on the shoulder and Candace sees it's not Perry or a platypus, but a beaver she was pulling.) You have a pet beaver?"
 2,17,Woman,You have a pet platypus.
 2,17,Candace,Touche.
 2,17,Phineas,"Nope, too blue."
-2,17,Phineas,Too angular.Too French.
+2,17,Phineas,Too angular.
+2,17,Phineas,Too French.
 2,17,Phineas,That one's just a duck with a beaver tail taped on.
 2,17,"Well, that was the last of them. Maybe we need to think bigger. And with music! Perry just loves music, remember? (Ferb smiles knowingly. In a brief flashback",baby Phineas taps a key on his xylophone and baby Perry chatters.) Let's get the guitars. I've got an idea.
 2,17,Doofenshmirtz,"What are you looking at, Perry the Platypus? This is a great job! And look at all I've accomplished. I mean, just today, I organized his evil invoices, swept his evil lair, picked up his evil dry cleaning. A-A-And look, I even had the time to do this, see? ""Best Boss."" And if I do a good job, I could be promoted to head assistant in just three months! Where are you gonna be in three months, huh, huh?"
@@ -10036,7 +10043,7 @@ Season,Episode,Name,Dialog
 2,38,Phineas,We just built a device that temporarily scrambles your molecules so you can pass through solid objects. Let's see if it works.
 2,38,Bobbi Fabulous,Now listen up...
 2,38,Phineas,"Hey we almost forgot, we have to get that pick for Mom! I'll be right back. (phases through wall)"
-2,38,Candace,"So I asked Jeremy if he was going to the festival and he's like ""Yeah, are you going to the festival?"" and then I go...(She notices Ferb, Isabella, Baljeet, and Buford staring at the blank wall that Phineas passed through)"
+2,38,Candace,"So I asked Jeremy if he was going to the festival and he's like ""Yeah, are you going to the festival?"" and then I go..."
 2,38,Candace,Hey...
 2,38,"Ferb, Isabella, Baljeet, Buford",(without looking around) Hey.
 2,38,Phineas,Got it.
@@ -11166,8 +11173,10 @@ Season,Episode,Name,Dialog
 2,47,Linda,"Hey, kids. So what was all the big racket back here?"
 2,47,Phineas,We were just playing with our tops.
 2,47,Linda,Oh.
-2,47,Jenny,Phineas and Ferb...were all spinning around and around(?)
-2,47,Stacy,And they were running so fast...And it flew away into the clouds!
+2,47,Jenny,Phineas and Ferb...
+2,47,Jenny,were all spinning around and around(?)
+2,47,Stacy,And they were running so fast...
+2,47,Stacy,And it flew away into the clouds!
 2,47,Jenny and Stacy,Giant tops of doom!
 2,47,Buford,(offscreen) LAME!
 2,47,Linda,You girls are beginning to sound a lot like Candace.
@@ -11845,7 +11854,7 @@ Season,Episode,Name,Dialog
 2,52,Phineas,"Well Ferb, after that long, winded argument of yours, I agree. (shows blueprint) We'll build a Monorail to Mars! (Candace walks by) Now all we need is 36 million miles of steel--"
 2,52,Candace,"What is wrong with you two? Can't you think of something normal to do like making a lemonade stand or picking your nose or something? (Ferb pulls out device) That better not be a nose picking machine! (Ferb puts it down) Yeah, that's right."
 2,52,Phineas,"Hey, where's Perry?"
-2,52,Major Monogram,"Agent P, I'm glad you're here. Dr. Doofenshmirtz has been hoarding all of the paper in the Tri-State Area. Find out what he's got up his sleeve, other than, apparently, an enormous amount of paper. Good luck, Agent P.(Perry salutes and leaves.)"
+2,52,Major Monogram,"Agent P, I'm glad you're here. Dr. Doofenshmirtz has been hoarding all of the paper in the Tri-State Area. Find out what he's got up his sleeve, other than, apparently, an enormous amount of paper. Good luck, Agent P."
 2,52,Candace,(opens the door without even looking at Stacy) So you boys just try and pull one over on me...
 2,52,Stacy,"Hey, Candace!"
 2,52,Candace,"'Cause I'm gonna be on you all day like... like a book on a shelf! No, that's stupid."
@@ -11916,7 +11925,8 @@ Season,Episode,Name,Dialog
 2,52,Candace,"I put busting my brothers ahead of you,"
 2,52,Candace,"You were always there for me, on you I could depend,"
 2,52,Candace,"And now, too late, I realize I should've been a better best friend!"
-2,52,Candace,"I said things I shouldn't have, did things I shouldn't do,Guess I forgot that you cannot spell ""us"" without ""you"""
+2,52,Candace,"I said things I shouldn't have, did things I shouldn't do,"
+2,52,Candace,"Guess I forgot that you cannot spell ""us"" without ""you"""
 2,52,Buford,"So you lost your best friend, huh? Yeah, I know how you feel. I lost my best friend once. Little guy, all yellow-y and scaly. His name was Biff, turned into this whole brouhaha. I had to fight a squid."
 2,52,Candace,"Wait a minute wait a minute, what you're trying to say is that if Stacy is really my best friend, I should just apologize to her. And if I'm really Stacy's best friend, she'll take me back! (runs off)"
 2,52,Buford,"Oh, sure! It's all about you!"
@@ -11956,7 +11966,8 @@ Season,Episode,Name,Dialog
 2,52,Doofenshmirtz,"OW, THAT SMARTS, PERRY THE PLATYPUS!"
 2,52,Vanessa,"Uh, Dad? You know he's not here, right?"
 2,52,Doofenshmirtz,"Yeah, I know, but I'm sure it's his fault."
-2,52,(Song,"""You're My Better Best Friend"")I said things I shouldn't have, did things I shouldn't do,Guess I forgot that you cannot spell ""us"" without ""you"""
+2,52,Doofenshmirtz,"I said things I shouldn't have, did things I shouldn't do,"
+2,52,Doofenshmirtz,"Guess I forgot that you cannot spell ""us"" without ""you"""
 2,52,Buford,"So you lost your best friend, huh? Yeah, I know how you feel. I lost my best friend once. Little guy, all yellow-y and scaly. His name was Biff, turned into this whole brouhaha. I had to fight a squid."
 2,53,Pilot,"(while an airplane makes its landing) Ladies and gentlemen, we'll be touching down in Hawaii momentarily, but remember aloha means ""hello"" and ""good bye"". Try not to get the two confused."
 2,53,Wahanies,Aloha!
@@ -12260,7 +12271,7 @@ Season,Episode,Name,Dialog
 2,54,Buford,I get one carry-on.
 2,54,Phineas,"All right. Carry on, then. Did you get that wing fixed yet?"
 2,54,Chaka Khan,I guess so. We pretty much used up all the packing tape.
-2,54,Phineas,"Okay, the clock is ticking, everyone!(Candace comes outside, ripping through the map)"
+2,54,Phineas,"Okay, the clock is ticking, everyone!"
 2,54,Candace,Phineas! What is going on here?
 2,54,Phineas,"We're flying around the world to make the longest, funnest day of summer ever."
 2,54,Candace,"Oh, no, no, no. Mom left me in charge, and I say you and your little friends are not going anywhere--"
@@ -13169,7 +13180,7 @@ Season,Episode,Name,Dialog
 2,56,Candace,"Well, what do you want to do?"
 2,56,Guard,"There's a little number we've been working on. Hit it, boys."
 2,56,Nerdcrow (Baljeet),What the hey! Everyone gets to sing but me?
-2,56,Doofenwitch Warlock,"I'm back! Sheesh, no need to celebrate. I've only been gone a minute. Wait! Where are my prisoners? Oh, they're escaping, you fools! After them! Raise the drawbridge!  Oh, great! The monkey is the only one working here!(The Lava-gator Growls)"
+2,56,Doofenwitch Warlock,"I'm back! Sheesh, no need to celebrate. I've only been gone a minute. Wait! Where are my prisoners? Oh, they're escaping, you fools! After them! Raise the drawbridge!  Oh, great! The monkey is the only one working here!"
 2,56,Candace,Great! Now what? (Perry grapples a Phineas and Ferb blimp) No way!
 2,56,Jeremy-Tree,Hold on!
 2,56,Candace,Ahhhhh!!!!
@@ -14035,8 +14046,12 @@ Season,Episode,Name,Dialog
 2,63,Phineas,"All your favorites bands playing all their greatest hits any time you want. Ferb, I know what we're gonna do today! Hey, where's Perry?"
 2,63,Major Monogram,"Morning Agent P, we have a situation, the royal Princess Baldegunde of Drusselstein is in town. She's here to give the ""Drusselsteinian Favorite Son"" Award to Mayor Roger Doofenshmirtz during the unveiling of the new Danville Opera House. We assume Dr. Doofenshmirtz will do something to disrupt the ceremony. He's been buying up all the claw machines in the Tri-State Area. We don't know exactly what his plan is, but do the math"
 2,63,Carl,"(offscreen) Uh, ooh ooh ooh ooh..."
-2,63,Carl,"Or a...or a, Singing Animal Claw-Clawpera House,Stuffy Stuffness!"
-2,63,Major Monogram,A Singing Claw-ClawingClawing House with a-
+2,63,Carl,"Or a...or a, Singing Animal Claw-"
+2,63,Carl,"Clawpera House,"
+2,63,Carl,Stuffy Stuffness!
+2,63,Major Monogram,A Singing Claw-
+2,63,Major Monogram,Clawing
+2,63,Major Monogram,Clawing House with a-
 2,63,Major Monogram,"It's terrifying, you must stop Doofenshmirtz and make sure the princess is safe. We don't actually have a photo of her, but whatever, she's a 15-year-old girl, they all pretty much look alike... Carl, put up a picture of a 15-year-old girl! (A picture of Candace appears on screen).... Uh now put a crown on her. (A crown is superimposed onto Candace's head) There! There's your princess."
 2,63,Carl,"(offscreen) Oh wait sir, I found a picture of the actual princess."
 2,63,Major Monogram,"All right, put it up there. (A picture of the princess appears and she has an uncanny resemblance to Candace) Oh, wow, what are the odds?"
@@ -14390,7 +14405,7 @@ Season,Episode,Name,Dialog
 3,2,Phineas,"(while rummaging through wires) Huh? Oh, sure. Sounds cool."
 3,2,Ferb,(appears) I'd like to go to that.
 3,2,Isabella,"Uh, sorry, I -- I only have one extra ticket, and...it's sold out. So, I thought maybe Phineas and I would go—uh, not to necessarily exclude --"
-3,2,Phineas,"Yeah, I can go after we finish up here. Done with the wiring, Ferb?(Ferb produces a back scratcher and scratches the dog, causing its hind leg to rise and twitch)"
+3,2,Phineas,"Yeah, I can go after we finish up here. Done with the wiring, Ferb?"
 3,2,Phineas,"Lookin' good. Hey, where's Perry?"
 3,2,Doofenshmirtz,"Comfortable, Perry the Platypus? I made that platy-rack so that every limb is accounted for. So, what's it all about?"
 3,2,Doofenshmirtz,"You see, there were only 2 things that made my miserable childhood bearable"
@@ -14751,7 +14766,7 @@ Season,Episode,Name,Dialog
 3,4,Phineas,How was the train ride?
 3,4,Candace,"(pause) Oh, I give up. (walks away)"
 3,4,Doofenshmirtz,(sighs) Some vacation this turned out to be. (the dodo makes a hole in his balloon)
-3,4,Farmer's Wife,"So you bought a Museum of Biological Oddities, but you didn't get any biological oddities?(Doofenshmirtz falls through the roof)"
+3,4,Farmer's Wife,"So you bought a Museum of Biological Oddities, but you didn't get any biological oddities?"
 3,4,Doofenshmirtz,Huh. What? (dodo falls in and lands on him)
 3,4,Farmer's Wife,There it is!
 3,4,Dodo,Narg narg narg! Narg!
@@ -15086,7 +15101,7 @@ Season,Episode,Name,Dialog
 3,6,Phineas,Cheese and sausage?
 3,6,Captain Squint,So this is what the inside of a shark looks like? I always thought it would be more... stomach-y.
 3,6,Stacy,I think maybe it's time we just call it quits.
-3,6,Candace,"(putting on Captain Squint's hat and wielding his harpoon) Stacy, I'm tired of this conversation!(lightning strikes behind them)"
+3,6,Candace,"(putting on Captain Squint's hat and wielding his harpoon) Stacy, I'm tired of this conversation!"
 3,6,Doofenshmirtz,"(trapped in the taffy) Ha-HA! I still have the upper hand! (the taffy spinner rotates, moving Perry above Doofenshmirtz) Well, actually you may at this particular mo... (the taffy squishes them together, then separates them again) Chew first, Perry the Plat... ahhh!!"
 3,6,Candace,"Hoist the mainsail! (Stacy does so) Swab the poop deck! (Stacy does so) Watch that jib, sailor. (the jib knocks Stacy's hat off) Now take the helm! (puts Stacy at the wheel and rides a rope onto the bowsprit) I've got a date with destiny, and it ain't gonna end with a kiss! (spots the shark through a spyglass) You've vexed me for too long. Too long! Full speed ahead, Stacy; get me in close!"
 3,6,Stacy,"Aye aye, Candace!"
@@ -15775,24 +15790,99 @@ Season,Episode,Name,Dialog
 3,12,Candace,"Yeah, yeah, tick-tock."
 3,12,Phineas,"Start her up Ferb. (at Candace) Remember, thirty minutes on setting five."
 3,12,Candace,Thanks guys!
-3,12,Stacy,What was that?Candace
+3,12,Stacy,What was that?
+3,12,Candace,"Oh, I changed my ringtone. That's a tangerine orangutan. Endangered animals! (looks at her phone) Oh, it's Jeremy! (she picks it up) Hi. You're uh, picking me up in ten minutes? Great! (nervous laugh) Bye. (hangs up the phone) Ten minutes! Stacy, crank this thing up. If it takes a half an hour on five it should do the trick in ten seconds on twenty."
 3,12,Stacy,"I don't know Candace, maybe you shouldn't mess with-"
 3,12,Candace,"Yeah, yeah, yeah, it'll be fine."
 3,12,Stacy,(nervously) Ok.
 3,12,Candace,"Besides Stacy, they wouldn't put a twenty on it if it weren't meant to be used, right?"
 3,12,Stacy,Well...I guess so.
 3,12,Candace,"Oh, my ten seconds are up! (lifts the top part of the machine from her head) Well, how does it look?"
-3,12,Stacy,(gasps) I can't believe it! It's perfect!Candace
+3,12,Stacy,(gasps) I can't believe it! It's perfect!
+3,12,Candace,Told you it'd be fine.
 3,12,Candace,"Ooh, now help me find something cute to wear."
 3,12,Doofenshmirtz,"Ah, Perry the Platypus I don't like your tone. (plays dramatic chords on the organ) Behold...I give you...The very VERY BAD-INATOR!"
 3,12,Doofenshmirtz,"It's made up of only the most evil parts of my old Inators, cobbled together without any rhyme or reason. My plan is to load it on my floating platform, take it high above the Tri-State Area and, you know, turn it on and see what it does. (turns towards Perry) I have no idea but I-I'm sure it's gonna be bad. Hence, Very Bad-inator. (pretends to shiver) Ooh, I got a chill!"
-3,12,(The scene changes to the Natural History Museum where Jeremy's parents are hosting the benefit for endangered animals.)Candace,"(walking into the museum) Wow, nice turnout.Jeremy"
+3,12,Candace,"(walking into the museum) Wow, nice turnout."
+3,12,Jeremy,Yeah.
+3,12,Candace,"Hey, there's your mom."
+3,12,Mrs. Johnson,"There you two are! Don't you look nice, Candace."
+3,12,Candace,"Oh, thanks Mrs. Johnson."
+3,12,Mrs. Johnson,"Come on, I'll show you where we're sitting. (she begins to lead them to the table) We have a very good turn out this year, many of Danville's top zoologists are here."
+3,12,Scientist #2,"(to Scientist #1) I bet I'll have more species named after me than you do, care to make a wager?"
+3,12,Scientist #1,No.
+3,12,Scientist #2,Why not?
+3,12,Scientist #1,Because your last name is Pithecus.
+3,12,Scientist #2,(laughs)
+3,12,Mrs. Johnson,The money that this banquet raises will go a long way to facilitate solutions for the problems these poor animals face.
+3,12,Candace,(through clenched teeth) Great!
+3,12,Jeremy,"Uh, Candace, I think you've got a little food or something on your lip."
+3,12,Candace,"(covering her mouth with her hand) Will you excuse me for a moment? (runs off to a table with an elderly couple sitting at it) Umm, I just need to see this spoon for a- (uncovers her mouth and sees the mustache growing on her face and screams. She then hides under the table and calls her brother.) Phineas."
+3,12,Phineas,Oh hi Candace. (at Ferb and Linda at the dinner table) It's Candace. (at Candace) You turned it up to twenty? So what happened?
+3,12,Candace,(mumbles are heard from the phone)
+3,12,Phineas,No way! That is so cool.
+3,12,Candace,(mumbles are heard from the phone again)
+3,12,Phineas,"Ok, I'll see what we can do. (he hangs up the phone) Mom, may Ferb and I be excused? Candace needs help with her hair."
+3,12,Linda,So you guys are hair stylists now?
+3,12,Phineas,Apparently.
+3,12,Linda,"So, what would you do with my hair?"
+3,12,Phineas,"Nothing, it's perfect the way it is."
+3,12,Linda,"Wow, you are good."
+3,12,Phineas,"Girlfriend, please."
 3,12,Doofenshmirtz,"(on the flying platform) Be careful Perry the Platypus, you're awfully close to the edge. Oh! Let me help you back. (laughs as Perry is sent from one side of the platform to the other) Oh. Oh I can't quite- Whoops! I'm just messing with ya."
-3,12,Jeremy,Candace! Candace? Now where'd she go?Candace
-3,12,(Doofenshmirtz is still rummaging through the picnic basket while Perry struggles to free himself from his trap)Doofenshmirtz,"Ooh yes. Peanut butter and honey sandwiches. The trick is the honey, and you get to use one of these weird honey-spoony things. It's- (crashes are heard) Perry the Platypus, did you just say gungalingdung? (Perry kicks Doofenshmirtz in the face, causing honey to pour all over Doofenshmirtz) Aww, great! Now I'm all sticky. (he gets up while Perry goes to the controls) Oh, now this was my last clean lab coat too. Ugh, it's on now!  (Perry takes the controls with a mischievous smirk on his face as he rocks the platform back and forth.) Hey! Hey, hey! What are you doing? Oh, oh I get. Payback. Very funny, Perry the Platypus. Very mature."
-3,12,Mrs. Johnson,(reading the instruction manual for the tranquilizer gun) Thank you for purchasing the Hanson 3000 Family Friendly Tranquidart Air-contrast delivery system. There are many like it but this one is yours.Candace
+3,12,Jeremy,Candace! Candace? Now where'd she go?
+3,12,Candace,I gotta find a better place to hide. (Candace moves the table away from the elderly couple)
+3,12,Old Man,(making magic fingers) Ooohhhh.
+3,12,Old Lady,Oh stop it.
+3,12,Old Man,You've lost your joie de vivre.
+3,12,Scientist #1,"Wow, this thing keeps getting weirder every year!"
+3,12,Professor Jones,(practicing his speech) It is wonderful to see such a fine turnout- AAAH!
+3,12,Candace,(looking at her hair covered hands) AAH!
+3,12,Scientist #2,"(on stage) Ladies and gentlemen, welcome to tonight's lecture!"
+3,12,Jeremy,(calling Candace) Where did she go?
+3,12,Scientist #2,Won't you all please help welcome...
+3,12,Candace,(as more hair grows all over her body) Oh no!
+3,12,Scientist #2,Professor Herbert Fonzworth Weatherman Jones!
+3,12,Jeremy,Huh...?
+3,12,Mrs. Johnson,"That's not professor Herbert Fonzworth Weatherman Jones, that's the rare tangerine orangutan! We have to capture it and return it to the wild. (getting up from the table) Stand back everyone, I have an associate's degree in zoology, I got this."
+3,12,Candace,Oh no! Jeremy's mother! She can't see me like this!
+3,12,Mrs. Johnson,(chasing Candace down hallways) Come back! Don't run away! I mean you no harm!
+3,12,Candace,(now in a fossil exhibit) AAH! (she climbs up the bones of a T-Rex to reach the window outside and climbs out)
+3,12,Mrs. Johnson,"No, no, no! Don't go up there, don't go up on the roof! (at Jeremy) Jeremy, honey, would you do me a favor and call animal control please?"
+3,12,Jeremy,"Sure thing, Mom."
+3,12,Phineas,"Hey Ferb, look up there! That's Candace on the roof. And I was worried this function would be dull. (he calls Candace)"
+3,12,Candace,(on the phone) Phineas help! Jeremy's mom thinks I'm an orangutan and is trying to return me to the wild!
+3,12,Phineas,"Ok, hang tight. We brought the hair remover."
+3,12,Doofenshmirtz,"This looks like a good spot to fire up the Really Bad-inator. (taps on the control panel of the machine) I can't wait to see what it does. Guess we'll have to wait. Ooh I brought snacks. (walks over to the picnic basket) Let me see what I have here. (rummages through the basket) I brought some baby carrots, and some grapes, and a- ooh, peanut butter! Ooh, and some honey! See, Perry the Platypus, most people like peanut butter and jelly sandwiches but I really prefer peanut butter and honey."
+3,12,Phineas,"Very few people know that Myron's Discus Thrower was built with real ancient disc-throwing action (Phineas and Ferb climb onto the statue) Hang on Ferb! (pushes a button on the statue with his foot, sending the arm of the statue spinning) Wwwweeeee! (Phineas and Ferb are thrown onto the roof near Candace) Candace? Ferb and I made a sonic oscillator. This baby'll blow the fuzz off a peach at ninety yards."
+3,12,Candace,"Great, get this hair off of me."
+3,12,Mrs. Johnson,"(opening the window to the roof) Yoohoo! Hello? Little friend, where did you go?"
+3,12,Phineas,Come on Ferb.
+3,12,Mrs. Johnson,I see you!
+3,12,Animal Control Guy,Animal control. You got a monkey needs tranquilizing?
+3,12,Mrs. Johnson,"That is not a monkey, it's the very rare tangerine orangutan."
+3,12,Animal Control Guy,"(loading the darts into the tranquilizer gun) Yeah, tomato potato. Just leave it to the professionals. (he cocks the tranquilizer gun and fires at Candace)"
+3,12,Candace,AAH!
+3,12,Animal Control Guy,"(seeing the dart in his backside) Huh. Would you look at that. Well, you've probably noticed I'm uh...not that good at my job so...you can just take this and I'll be right back. (he passes out)"
+3,12,Doofenshmirtz,"Ooh yes. Peanut butter and honey sandwiches. The trick is the honey, and you get to use one of these weird honey-spoony things. It's- (crashes are heard) Perry the Platypus, did you just say gungalingdung? (Perry kicks Doofenshmirtz in the face, causing honey to pour all over Doofenshmirtz) Aww, great! Now I'm all sticky. (he gets up while Perry goes to the controls) Oh, now this was my last clean lab coat too. Ugh, it's on now!  (Perry takes the controls with a mischievous smirk on his face as he rocks the platform back and forth.) Hey! Hey, hey! What are you doing? Oh, oh I get. Payback. Very funny, Perry the Platypus. Very mature."
+3,12,Mrs. Johnson,(reading the instruction manual for the tranquilizer gun) Thank you for purchasing the Hanson 3000 Family Friendly Tranquidart Air-contrast delivery system. There are many like it but this one is yours.
+3,12,Candace,"Phineas, hurry, while she's distracted!"
+3,12,Phineas,"Alright, Candace."
+3,12,Candace,Hey it worked!
 3,12,Doofenshmirtz,"As soon as I get this honey off of me, I- (Candace's hair hits Doofenshmirtz, sending him screaming off of the platform and onto the pole where Candace once was.) Is this hair? (Perry is still on the platform and manages to disable the Very Bad-inator. He escapes on his glider.) Oh, no! Now I'll never know what the Bad-inator does! Curse you, Perry the Platypus!"
-3,12,Mrs. Johnson,"The red plunger will act as a non-return valve and retain the air within the dart. Fear not, helpless primate! Bright banquets of the Elysian vale will soon melt every care away, or my name isn't Hawk-eye Johnson! (aims; tranquilizer gun cocks; shoots)Doofenshmirtz"
+3,12,Mrs. Johnson,"The red plunger will act as a non-return valve and retain the air within the dart. Fear not, helpless primate! Bright banquets of the Elysian vale will soon melt every care away, or my name isn't Hawk-eye Johnson! (aims; tranquilizer gun cocks; shoots)"
+3,12,Doofenshmirtz,"Ow! Shot in the butt while covered in honey and hair? What do you know, my horoscope was right. (hugging pole) My beautiful, beautiful horoscope."
+3,12,Mrs. Johnson,"Oh, no! What have I done? She's going to fall!"
+3,12,Doofenshmirtz,"(drowsily) Hold the door, Barbara. I think this is our floor. (falls)"
+3,12,Candace,"Thanks, guys! I could just hug you! (proceeds to hug her brothers, but ends up catching a hair and honey-covered Doofenshmirtz instead)"
+3,12,Phineas,Awesome!
+3,12,Mrs. Johnson,Candace? You caught her! You saved this orangutan!
+3,12,Animal control guy,I'll take it from here. (grunts) Leave it to the professionals.
+3,12,Doofenshmirtz,"Mama, I'm pretty."
+3,12,Mrs. Johnson,I knew you were a good catch.
+3,12,Candace,Thanks Mrs. Johnson.
+3,12,Jeremy,I didn't know you were helping out my mom. You made quite an impression on her.
+3,12,Candace,"Well, I guess you could say I am having a good bad hair day."
 3,13,Linda,"(to Candace) So you and Stacy are going to a ""Rock-n-Roll"" memorabilia auction?"
 3,13,Candace,"(to Linda) Well, yeah. They are gonna be auctioning off one of the original Tiny Cowboy bobble heads. (Flicks the Cowboy hat bobble-head) The lefty one."
 3,13,Linda,So I guess I won't be seeing you at the annual Danville Meatloaf Festival?
@@ -15881,7 +15971,7 @@ Season,Episode,Name,Dialog
 3,13,Candace,"Uh, don't mind if I do! Is it vegetarian? (pause)"
 3,13,Adrian,"It's got ""meat"" actually, in the name."
 3,13,Candace,Just kidding! (eats meatloaf)
-3,13,Doofenshmirtz,"Ugh, I really shouldn't have eaten that -- wait, is that Tiny Cowboy? (the ambulence takes him away)"
+3,13,Doofenshmirtz,"Ugh, I really shouldn't have eaten that -- wait, is that Tiny Cowboy?"
 3,14,Candace,"(on the phone) That's what going steady is, Stacy! Jeremy and I aren't really engaged. But we're totally engaged to be engaged to be engaged. And by the way, that's on a ""need-to-know"" basis. (Scoffs) Why would Jeremy need to know?"
 3,14,Linda,"Hey hon, I was just reading this article about mothers and daughters, and really listening to your teen. And I realized I've hardly seen you all summer, so for the whole day today, it's you and me. Whatever you want to do, I'm all yours. Anything at all."
 3,14,Candace,"Wait a minute, anything? (on the phone) Stacy, I'll call you back."
@@ -16223,9 +16313,13 @@ Season,Episode,Name,Dialog
 3,16,Candace,(crawling towards Linda) Mooooom! Mooooom! Mooooom! Moooo-oooom!
 3,16,Doofenshmirtz,"Twelve pickles! How did you even get them all in there? (leaps at Perry, who kicks him onto the -inator) My Chicken Soup-inator! Nooooo! (A stream of chicken soup comes out and hits the asteroid as the latter passes by. The Chicken Soup-inator then explodes.)"
 3,16,Candace,MOOOOM!!!
+3,16,Candace,
 3,16,Candace,TURN AROUND!!!!
+3,16,Linda,
 3,16,Linda,Whoa!
+3,16,Candace,
 3,16,Candace,(wailing) TURN AROOOOOOUUUUUUUUUUNNNNNNND!!!!!!!!!
+3,16,Linda,
 3,16,Linda,"Ugh, okay... (takes off her headphones and turns around)"
 3,16,Candace,"See?!! (The ionizer flies out of sight.) But, but, but, but…"
 3,16,Linda,"Well, I'm glad your ankle's feeling better, dear. But you should really be lying down. And look, the kids cleared out the perfect spot for my snapdragons! I think that earns you for some pie."
@@ -16354,24 +16448,101 @@ Season,Episode,Name,Dialog
 3,17,Lawrence,"(comes up) So, what are we looking at? (pause, Candace and Linda look at him) Oh. Oh, right, haha! (goes back in)"
 3,17,Doofenshmirtz,"Yep, gonna need some new pants. Well, I fail to see how this day could get any worse. (whistling overhead; at the camera) Flaming cactus. (screams, gets covered in flaming cactus) Yeah, that ought to do it!"
 3,18,Phineas,"I'll be honest, Ferb. I'm having a hard time putting a positive spin on this. But, I guess that's life, huh? One minute you're having the best day ever, the next you're being fed to a monster the size of a two-car garage."
-3,18,Doofenshmirtz,"Yeah? Well, welcome to my life! (the Goozim roars, he gasps and hides behind a robot)Phineas"
-3,18,Doofenshmirtz,EARLIER THAT DAY
+3,18,Doofenshmirtz,"Yeah? Well, welcome to my life! (the Goozim roars, he gasps and hides behind a robot)"
+3,18,Phineas,Huh. And everything started out so well this morning. (Ferb looks at the screen)
+3,18,Phineas,EARLIER THAT DAY
 3,18,Phineas,"Good morning, Perry! Now that's the way to wake up. (He hugs Perry) This is gonna be the best day ever."
-3,18,Lawrence,"Good morning, boys.Linda"
-3,18,Lawrence,"Come on, kids. Pick out any pet you want.Linda"
-3,18,Phineas,"And then when we got you home, we renamed you Perry. And gave you this locket!(Phineas reaches into Perry's fur and pulls out a webbed foot-shaped locket on a collar. He opens the locket around Perry's neck, revealing three pictures, one of young Phineas, Ferb, and Perry)"
+3,18,Lawrence,"Good morning, boys."
+3,18,Linda,"Happy anniversary, Perry."
+3,18,Phineas,"Oh, that's right! Gosh, I can't believe it's been five years. I remember the day we first got you."
+3,18,Lawrence,"Come on, kids. Pick out any pet you want."
+3,18,Linda,"Oh look, Phineas! This one's looking at you! (picks up Phineas and shows him a cat)"
+3,18,Lawrence,"And this one's looking at you, Ferb! (picks up Ferb and shows him a dog)"
+3,18,Young Candace,(walks through the aquarium section and all the fish swim away as she approaches) Why won't anything look at me?!
+3,18,Young Phineas,Ferb! This one's looking at both of us at the same time!
+3,18,Linda,Awww...
+3,18,Young Candace,"That thing?! You're kidding, right?"
+3,18,Store employee,Is there something I can do for you?
+3,18,Lawrence,"Ah, yes, we'd like that one, please."
+3,18,Store employee,(surprised) You'd like to adopt a platypus?
+3,18,Lawrence,"Oh, is that what it is? Well, yes! May we have him please?"
+3,18,Store employee,Okay.
+3,18,Young Candace,What would you even name a platypus?
+3,18,Phineas,"(Narrating) 'Course, Ferb and I knew exactly what to call you."
+3,18,Young Phineas and Ferb,(simultaneously) Bartholomew!
+3,18,Phineas,"And then when we got you home, we renamed you Perry. And gave you this locket!"
 3,18,Phineas,Look how young we all were.
-3,18,Candace,"(in her room, talking with her cell phone) Hey, Jeremy. You wanna go to the mall?Jeremy"
-3,18,Phineas,"(holding a baseball bat and tapping the home plate) All right, looks like the pitcher's ready, and...batter up!(Ferb scratches Perry's neck and Perry's tail snaps forward, flinging the baseball toward Phineas)Phineas"
-3,18,(They finish up a mechanical platypult)Phineas,"Okay, everyone. I think the tail is all set. I'll just go check with the foreman.Isabella"
+3,18,Candace,"(in her room, talking with her cell phone) Hey, Jeremy. You wanna go to the mall?"
+3,18,Jeremy,"(At his house) You know, I'd love to, but my dad's taking me to check out his old college today."
+3,18,Jack Johnson,(runs in) Boo-ya! Goooo Polecats! Boo-ya! (he runs away)
+3,18,Jeremy,He's already set up an interview with an academic adviser. Can you believe that?
+3,18,Candace,"Gee, Jeremy. I forgot you're a whole year older than me. A trip to college? Heh-heh.. That's, that's really great. Okay, well, I'll talk to you later. Bye. (Hangs up phone and picks up a stuffed teddy bear with a picture of Jeremy taped to its face) (to the teddy bear) Oh, Jeremy! In the blink of an eye, you'll be moving on to the next phase of your life. You'll be going to college and wearing tweed jackets with patches on the elbows! You'll be so mature! And look at me! I'm a child! Jeremy, you'll see! I can mature! Starting with taking this silly photo off. (rips off photo. gasps) Oh, Mr. Miggins! (hugs it) Have you been there the whole time?"
+3,18,Phineas,"(holding a baseball bat and tapping the home plate) All right, looks like the pitcher's ready, and...batter up!"
+3,18,Phineas,"Batter batter batter, swing! (swings at the baseball and hits) Oh yes, sports fans! That may be the best hit ever in the history of platypult baseball!(Ferb checks the ""Platypult Baseball World Record Book"" and gives Phineas a thumbs up)"
+3,18,Phineas,And the crowd exhales loudly through their mouths! (imitates a roaring crowd)
+3,18,Phineas,And Fletcher snags the pop fly! He's out!
+3,18,Isabella,"(enters) Hi, Phineas! What'cha doin'?"
+3,18,Phineas,Turning Perry's involuntary reflex into a sporting event.
+3,18,Isabella,"Hi, Perry! Can I try? (scratches Perry's neck and the baseball is catapulted out of the yard)"
+3,18,Phineas,"Whoa, mama! Nice shot, Isabella!"
+3,18,Baljeet,(enters along with Buford) Did someone lose a ball?
+3,18,Phineas,"Yeah, we were just playing platypult."
+3,18,Baljeet,"Oh, I love Platypus-themed sports! (Buford looks slightly annoyed at this)"
+3,18,Phineas,"You know, if we had two Perrys, we could put a net between them and play platypult badminton!"
+3,18,Buford,Who's Annette?
+3,18,Phineas,"Ferb, that's it! I know what we're gonna do today!"
+3,18,Buford,"No, seriously. Who's Annette?"
+3,18,Phineas,"Okay, everyone. I think the tail is all set. I'll just go check with the foreman."
+3,18,Isabella,(noticing Perry's absence) He's gone!
+3,18,Phineas,"Hey, where's Perry? (he checks under the machine) Did he really slip away? On his anniversary? Sometimes it seems like Perry's missed every single cool thing we've done all summer long. I guess he can do whatever he wants. After all, it's HIS day, right?"
+3,18,Baljeet,"Hey, what was that small noise?"
+3,18,Phineas,Let's all go walk over to it!
 3,18,Major Monogram,"Ah, good morning, Agent P. Uh, quick word. Recently you've been having some close calls, and your host family has almost caught you sneaking into your lair several times. No need to remind you - but I'll do it anyway - that if your cover's blown, you'll have to be transferred to another city, with another host family. (Perry looks unamused) And we both know you wouldn't like that. (chuckles) I remember the day you were first assigned."
-3,18,(Flashback to when the Flynn-Fletcher family was just walking out of the adoption agency with their new platypus)Female store employee,Enjoy your platypus!Lawrence
-3,18,"(Candace, inside her room, is shown packing her belongings into a cardboard box)Stacy","(enters) Hey, girl. Uh, what are you doing?Candace"
-3,18,Doofenshmirtz,"Now, Perry the Platypus, quake in terror, as I punch a hole through to another dimension! (shows his Other Dimensionator) Behold! The Other-Dimensionator...Norm"
+3,18,Female store employee,Enjoy your platypus!
+3,18,Lawrence,Thank you! Cheerio!
+3,18,Younger Carl,"(into a headset) Agent assignment complete, sir."
+3,18,Younger Monogram,"(inside a computer-filled room) Good job, Carl! If you keep up the great work, you'll make unpaid intern in no time!"
+3,18,Carl,(off screen) And I did!
+3,18,Major Monogram,"Don't get cocky, Carl! Agent P, as you know, every operative is equipped with an auto-scan replication device, just like the one in your hat. We've been using the information you've gathered to replicate each and every one of Dr. Doofenshmirtz's inators. Our top men have been analyzing them to determine if they've been getting smarter or dumber. And, to be honest, the jury's still out. Now we find out that he's in the process of building an alternate dimension-related inator. Your assignment is to stop him, before he finishes building it. Behind you, rising dramatically from the floor, is Carl with some high-tech gadgets that you might find useful."
+3,18,Carl,"(off-screen) Uh, Sir? Hello? I didn't step on in time. Would you mind lowering the platform again?"
+3,18,Major Monogram,"Oh, great, let me... cue the music again. (Rewind dramatic music and plays it again as Carl rises with the platform this time)"
+3,18,Carl,"Voilà, monsieur! (He shows a wristwatch) This first item is our new wrist-communicationizer. It has many applications that will help you in the field. For example, a powerful directional electro-magnet. It will draw any metal object to you. (He pushes a button and his glasses are drawn to it) See? And these are aluminum!"
+3,18,Major Monogram,"Quit goofing around, Carl, and show him the hologram."
+3,18,Carl,"Yes, sir. (he pushes a button on the watch and turns on hologram of Major Monogram)"
+3,18,Major Monogram,"Hehe. Pretty nifty, huh? (from the hologram) With this device, you'll be able to contact me from anywhere at anytime, but don't call between 3"
+3,18,Carl,"Oh, no! His holographic projection has become mesmerized by his video image! I better shut it off."
+3,18,Carl,"And if you push THIS button, it gives your adversary an incredible ice cream headache."
+3,18,Carl,It's gone. You better watch where you point that. (He hands the watch over to Perry)
+3,18,Stacy,"(enters) Hey, girl. Uh, what are you doing?"
+3,18,Candace,"Stacy, Jeremy's going to college soon, and here I am concerned with busting my brothers to my mommy and living in this NURSERY. (She picks up a ceramic unicorn) A unicorn! A UNICORN, Stacy! (mockingly) ""Hi, I'm six!"" You've GOTTA help me get rid of all this junk."
+3,18,Stacy,"Wow, bold move!"
+3,18,Candace,"Yep! Goodbye, childhood folly. Hello, carefree, undemanding, adult life!"
+3,18,Linda,"(enters) Yeah, good luck with that. Candace, your father and I are off to the movies. While we're gone, you're in charge, okay?"
+3,18,Candace,"Okay, Mom! (to Stacy) And you know, I'm even thinking about giving up on busting my brothers."
+3,18,Stacy,"The irony is, that as a grown up, you don't NEED to tell your mom. You can just bust them yourself."
+3,18,Candace,"(gasps) That's it! Stacy, I'm old enough to bust them myself!"
+3,18,Stacy,That's what I just said.
+3,18,Doofenshmirtz,"Now, Perry the Platypus, quake in terror, as I punch a hole through to another dimension! (shows his Other Dimensionator) Behold! The Other-Dimensionator..."
+3,18,Norm,Sir!
+3,18,Doofenshmirtz,(trailing off) What? What?
+3,18,Norm,(in front of a large buffet table) I've finished setting up the buffet.
+3,18,Doofenshmirtz,"Oh, for crying out loud, Norm. I was in the zone!"
+3,18,Norm,I just thought you were playing with your doll.
+3,18,Doofenshmirtz,"It's not a doll, it's a stand-in. Pretendy the Practice-pus, see? I wonder if Perry the Platypus practices with a fake me? It would be nice to know he cares enough...(tennis ball eye falls off the stand-in)"
 3,18,Phineas,"All systems are green. Prepare to launch on my mark. T-minus thirty and counting. 29, 28, 27, 26..."
-3,18,(at Perry's lair)Carl,"...Of course, you'll only need this if you're attacked by one of the royals or a member of Parliament, so it's probably okay to leave the safety on. And here's your brand new rocket-car. (He shows it as Perry gets in and starts it) Sweet huh? Good luck, Agent P!(Perry rides on the car)Major Monogram"
+3,18,Carl,"...Of course, you'll only need this if you're attacked by one of the royals or a member of Parliament, so it's probably okay to leave the safety on. And here's your brand new rocket-car. (He shows it as Perry gets in and starts it) Sweet huh? Good luck, Agent P!"
+3,18,Major Monogram,"Uh, Carl? Did you tell him the accelerator's a little touchy?"
+3,18,Carl,"I think he knows, sir."
 3,18,Phineas,"...3, 2, 1, service!"
-3,18,"(Isabella pushes a button marked INVOLUNTARY REFLEX, and the platypult launches them, but the knockback rolls it away. At the same time, Perry's rocket car bursts out of the ground nearby and collides with it, sending them both careening away from each other. Candace and Stacy run into the backyard)Candace","Phineas and Ferb, you are so bus... Oh my gosh! Where'd it go? You there! Small children! Where's the big contraption?Isabella"
+3,18,Candace,"Phineas and Ferb, you are so bus... Oh my gosh! Where'd it go? You there! Small children! Where's the big contraption?"
+3,18,Isabella,"I don't know, it was here just a moment ago."
+3,18,Candace,"It disappeared! Stacy, do you realize what this means?"
+3,18,Stacy,We're done?
+3,18,Candace,"No! Some kind of mysterious force always takes away Phineas and Ferb's inventions before Mom shows up, this time, it took it away their invention before I showed up! The mysterious force recognizes that I'm now a grown-up!"
+3,18,Stacy,"A ""mysterious force""? I'm not buying it. I am a woman of science. At least that's what my horoscope said."
+3,18,Candace,"Well, I'm going to prove it to you and bust my brothers at the same time! Where are my brothers?"
+3,18,Baljeet,We just launched them towards the park. Buford is there with the other platypult.
+3,18,Candace,"Okay, as the adult, I decree we are going to the park. Does anyone need to go potty first? (awkward pause. Stacy raises her hand) Fine, make it quick."
 3,18,Phineas,Ferb! It looks like we're gonna hit that building that looks vaguely like your head!
 3,18,Doofenshmirtz,"Time to give it a little test. (he turns it on, it starts for a brief second, then shuts down) Hmm. Well, I just finished it. It can't be broken already."
 3,18,Doofenshmirtz,"(sighs) I stand corrected. (Phineas and Ferb get out of the shuttlecock) Alright, what's with the giant shuttlecock?"
@@ -16460,7 +16631,7 @@ Season,Episode,Name,Dialog
 3,18,Doofenshmirtz-2,"This is Perry the Platyborg! He was once my nemesis, but now, he is general of my army!"
 3,18,Doofenshmirtz,"Wow, you are good!"
 3,18,Doofenshmirtz-2,Dismissed.
-3,18,"(Phineas, Ferb, and Perry ride in on the same chairs Doofenshmirtz did)Phineas",That was awesome!
+3,18,Phineas,That was awesome!
 3,18,Doofenshmirtz-2,"Ugh, now who's interrupting me? Remind me to berate my Indentured Executive Assistant!"
 3,18,Doofenshmirtz,"No, man, it's cool. They're with me."
 3,18,Phineas,"Oh, hey, Dr. D. We thought we lost you."
@@ -16474,7 +16645,7 @@ Season,Episode,Name,Dialog
 3,18,Doofenshmirtz-2,THE PLATYPUS!!! THAT’S SECRET AGENT PERRY THE PLATYPUS!!!
 3,18,Phineas,"Ho-ho, hey. He's just a platypus. He doesn't do much."
 3,18,Doofenshmirtz-2,"Oh, this is rich! I-I see what's going on here. You, you really think that he's your pet, don't you? WRONG! He's using you! You're just his cover! He's a secret agent! Here-here, let me prove it. (he looks up) General Platyborg, come down here at once! He'll be here in just a second, and then..."
-3,18,Doofenshmirtz-2,"Alright, Platyborg, you see that platypus? You know what to do.(Platyborg charges and smacks Perry away)"
+3,18,Doofenshmirtz-2,"Alright, Platyborg, you see that platypus? You know what to do."
 3,18,Phineas,Perry!
 3,18,Phineas,"What was that for?! (He and Ferb run to Perry) Perry, are you okay?"
 3,18,Doofenshmirtz,Told ya.
@@ -16485,7 +16656,7 @@ Season,Episode,Name,Dialog
 3,18,Phineas,"Perry?! (Perry looks at both boys, realizing what he’s done)"
 3,18,Doofenshmirtz-2,YES! I knew it!
 3,18,Doofenshmirtz,Wait a minute. I'm-I'm confused. Why does their platypus fight so good?
-3,18,(Perry rolls his eyes as he puts his fedora on)Doofenshmirtz,PERRY THE PLATYPUS?!
+3,18,Doofenshmirtz,PERRY THE PLATYPUS?!
 3,18,Doofenshmirtz-2,(incredulous) Really?
 3,18,Doofenshmirtz,What?
 3,18,Phineas,(looking hurt) Perry? (Perry guiltily averts his eyes)
@@ -16499,7 +16670,7 @@ Season,Episode,Name,Dialog
 3,18,Phineas,"You're evil? He's evil?! (They back up to the window pane) So not only have you been leading a double life this whole time, but you sat there and let us help an evil scientist open an evil portal into an evil dimension, and you did nothing to stop us?!"
 3,18,Ferb,"Well, he did pee on the couch."
 3,18,Doofenshmirtz,"Wait a second, I just realized. That was a conscious choice! You peed on my couch!"
-3,18,(Perry shrugs embarrassedly)Phineas,"No, no, that wasn't enough! That's when you should've put on your little hat! Not now, after we've gone through it into this mess!"
+3,18,Phineas,"No, no, that wasn't enough! That's when you should've put on your little hat! Not now, after we've gone through it into this mess!"
 3,18,Doofenshmirtz-2,"Oh, for badness sake, you can hash all this out in prison. Guards?"
 3,18,Doofenshmirtz-2,Ahh! Brain freeze!
 3,18,Phineas,"I-I'm sorry, I'm just having trouble processing this right now. (Perry hands him a pamphlet) ""So You've Discovered Your Pet is a Secret Agent..."" (throws it away) I don't want your pamphlet!"
@@ -16591,8 +16762,9 @@ Season,Episode,Name,Dialog
 3,18,Phineas,"Oh, wait. Maybe we're going too fast."
 3,18,Phineas-2,Wow! Summer sounds like a blast!
 3,18,Phineas,"That's just the tip of the iceberg! Like this summer for instance; we built a roller coaster, we became one-hit wonders, we traveled through time..."
-3,18,"(Perry walks over to it, we see 2nd Dimension Doofenshmirtz on the TV)Doofenshmirtz-2","This is a message for other dimension Perry the Platypus. If you turn yourself in, I promise not to hurt your little friends. If you don't, all bets are off."
-3,18,(Perry turns to go)Phineas,"(still talking) ...And then we launched ourselves from a giant Perry the Platypult... (he sees Perry sneaking off)(Perry hides behind a curtain and puts on his fedora, he is about to go)Phineas"
+3,18,Doofenshmirtz-2,"This is a message for other dimension Perry the Platypus. If you turn yourself in, I promise not to hurt your little friends. If you don't, all bets are off."
+3,18,Phineas,(still talking) ...And then we launched ourselves from a giant Perry the Platypult... (he sees Perry sneaking off)
+3,18,Phineas,"You are kidding me! (Perry stops) You're actually sneaking away again? So nothing's changed. (Ferb walks up and crosses his arms) Did it ever occur to you that we could help you? That we could've made a great team? (Phineas puts his arm around Ferb) But I guess you can't have teamwork without trust. (Perry looks down, ashamed, then back up at Phineas, with his head down) You don't have to sneak away anymore. We know your secret. (Perry's tail droops. Phineas points towards the door) You can just go."
 3,18,Phineas,"You know, I used to think you couldn't spell ""platypus"" without ""us"". (walks back inside)"
 3,18,Ferb,"Well, you can, but it would just be ""Platyp"". (he shuts the door)"
 3,18,Phineas,"Well, I guess if you guys can't help us fix the remote, we could check with Isabella."
@@ -18229,8 +18401,10 @@ Season,Episode,Name,Dialog
 3,27,Doofenshmirtz,"No, it's not ""aunch-lerb"", talk normal. It's launch, launch!"
 3,27,Doofenshmirtz,"NO, NO, NOT YET! NOT YET!"
 3,27,Candace,"Ohh, I must have fallen asleep... Wow, am I relaxed...I wonder how long I was out?"
-3,27,Candace,"Excuse me, do you have the time?Heather"
-3,27,Candace,"Uh, what?Heather"
+3,27,Candace,"Excuse me, do you have the time?"
+3,27,Heather,Ee-threrb enty-twerb.
+3,27,Candace,"Uh, what?"
+3,27,Heather,Ee-threrb enty-twerb.
 3,27,Candace,My ears must be over-relaxed.
 3,27,Man #1,Oo-derb ou-yerb ave-herb any iblings-serb?
 3,27,Man #2,"Es-yerb, I ave-herb, an ister-serb."
@@ -18255,8 +18429,10 @@ Season,Episode,Name,Dialog
 3,27,Doofenshmirtz,"Knock it off with the babble talk, I can't stand it! (Doofenshmirtz stomps down several times on the button) TALK NORMAL!"
 3,27,Steve,Talk normal. Huh.
 3,27,Ann,Yeah okay I'm convinced.
-3,27,Candace,"Mom mom mom! Come with me. Phineas and Ferb created a new language and everybody's speaking it, and now we can't understand anybody! Watch this! What time is it?Heather"
-3,27,Candace,What? You there! Talk!Man #1
+3,27,Candace,"Mom mom mom! Come with me. Phineas and Ferb created a new language and everybody's speaking it, and now we can't understand anybody! Watch this! What time is it?"
+3,27,Heather,Twenty minutes since the last time you asked me.
+3,27,Candace,What? You there! Talk!
+3,27,Man #1,I don't think we have anything to say to each other! Not after the... jazz hands!
 3,27,Linda,"Wow, he must really hate jazz hands."
 3,27,Candace,I don't get it! Everybody was blowing raspberries and speaking this crazy language!
 3,27,Linda,Look who's here.
@@ -19460,7 +19636,7 @@ Season,Episode,Name,Dialog
 3,37,Doofenshmirtz,"And I quote, ""No additional agents are allowed to thwart any single evil scientist if said first agent assigned is still well and able to carry out his duties."" And though surrounded by salt, Sergei the Snail is technically still ""on duty,"" so as long as I have him trapped, you can't touch me! It's all here in black and... Whoa! Whoa! Whoa!"
 3,37,Doofenshmirtz,"Ow, that snail is dynamite!"
 3,37,Candace,"Well, ladies, thanks for everything."
-3,37,(A bus with a Totally Tools billboard on it pulls up to the bus stop.)Candace,"I feel like... (She notices the billboard.) Uh... Perry? (She looks and sees more billboards.) Perry? Perry? Oh, my gosh, the boys have created an enormous ad campaign around our pet platypus!"
+3,37,Candace,"I feel like... (She notices the billboard.) Uh... Perry? (She looks and sees more billboards.) Perry? Perry? Oh, my gosh, the boys have created an enormous ad campaign around our pet platypus!"
 3,37,Mandy,Uh-oh.
 3,37,Candace,"(inhales deeply) Sisters, I know what you're thinking, but rest assured, this new Candace that you see before you will not react like the crazed little girl that crawled in here just this morning."
 3,37,Mandy,"Good for you, Candace!"
@@ -19486,7 +19662,7 @@ Season,Episode,Name,Dialog
 3,37,Manager,"Yes, sir. Yes, sir, all torn down. Brilliant! (runs off, then crashes off-screen) Trash can!"
 3,37,Candace,"Oh, they are so busted!"
 3,37,Candace,"Okay, how she missed that one is beyond me."
-3,37,(In the attic...)Candace,Mom! Mom! Mom!
+3,37,Candace,Mom! Mom! Mom!
 3,37,Linda,"Well, I guess that answered the inflatable legs question. (at Candace) Now, what is it, Candace?"
 3,37,Candace,Look and see for yourself! You won't believe it!
 3,37,Linda,Candace...
@@ -22604,8 +22780,20 @@ Season,Episode,Name,Dialog
 3,62,Doofenshmirtz,It wasn't?
 3,62,Norm,"No, of course not! The real Balloony popped three weeks ago! (holds up the popped Balloony)"
 3,62,Doofenshmirtz,(bawling) BAAAALLLLLOOOOONNNNNNYYYYYYYYYY!!!!! (continues bawling over Norm's line)
-3,62,Norm,"Aaand uncomfortabletransition back tothe Gnome-o-Meter!(gnome rises from 10,00past the 15,000 line)Wow, that backstoryreally had some,juice. Now, ifyou've finished weeping, let's continue!"
-3,62,Norm,Doofenshmirtz Why do you gottago?! Why?! Why?!Norm you monster!Can't you seeI'm in pain?!
+3,62,Norm,Aaand uncomfortable
+3,62,Norm,transition back to
+3,62,Norm,the Gnome-o-Meter!
+3,62,Norm,"(gnome rises from 10,00"
+3,62,Norm,"past the 15,000 line)"
+3,62,Norm,"Wow, that backstory"
+3,62,Norm,"really had some,"
+3,62,Norm,"juice. Now, if"
+3,62,Norm,"you've finished weeping, let's continue!"
+3,62,Norm,Doofenshmirtz Why do you gotta
+3,62,Norm,go?! Why?! Why?!
+3,62,Norm,Norm you monster!
+3,62,Norm,Can't you see
+3,62,Norm,I'm in pain?!
 3,62,Norm,"In another misguided attempt to engage in life, you entered one of your inventions in a science fair!"
 3,62,Doofenshmirtz,"(clip starts) That's right. It- it was my very first -inator! Just as I was about to demonstrate my invention to the judges, a kid with a baking soda volcano stole the show! The next year, I tried again with my even bigger -inator. And again, my thunder was stolen by a baking soda volcano! I'd had enough of science. I decided to devote my life to poetry instead."
 3,62,Young Adult Doofenshmirtz,"The movies are gray, the TV is black, the horses are running, please bring me some food."
@@ -22966,7 +23154,7 @@ Season,Episode,Name,Dialog
 4,2,Doofenshmirtz,"Not yet, Norm. Now on to my plan"
 4,2,Doofenshmirtz,"(voice over) Uh, you couldn't change your channel on your TV,..."
 4,2,Doofenshmirtz,"(voice over) ...you couldn't change your underwear,..."
-4,2,(Flashback of young Doofenshmirtz in jail with two tough-looking criminals)Doofenshmirtz,(voice over)...and forget about changing your hairstyle; you... you'd end up in jail.
+4,2,Doofenshmirtz,(voice over)...and forget about changing your hairstyle; you... you'd end up in jail.
 4,2,Doofenshmirtz,"But here in the new world, we embrace change! (beat) Apparently. And that's why I came up with the Resolution Changer-inator! Cleverly disguised as a bow tie! When I turn it on at the stroke of midnight, it will make everyone change their resolution from whatever it was, like, I don't know, ""I-I'm gonna lose weight,"" or, ""gain a limb,"" or whatever, to, ""I'm going to make Heinz Doofenshmirtz my leader and obey his every command."" That will be their new resolution. (puts the Resolution Changer-inator on) All right, Norm, how do I look?"
 4,2,Norm,Like a pharmacist in a bow tie!
 4,2,Doofenshmirtz,"Eh, good enough. Time to go. (Norm blows a noisemaker) You're squandering, Norm!"
@@ -24020,7 +24208,7 @@ Season,Episode,Name,Dialog
 4,10,Phineas,"It's goin' well! But, actually, we were looking for Perry the Platypus."
 4,10,Parry Gripp,Oops. (exits) Sorry for the misunderstanding.
 4,10,Phineas,"(to the camera) Internet sensation Parry Gripp, ladies and gentlemen! (to Ferb) So, where's our Perry?"
-4,10,Linda,"(putting a burnt pie on the floor by Perry) Oh, here you go, Perry. (Perry unwillingly sinks his teeth into the pie) I burnt another one. (Shot of Linda as she takes her oven mitts off. She looks rather baggy-eyed.) I guess that's what I get for staying up all night. Unless I get my act together that means plenty more for you, Perry. (Perry gets a look of shock on his face.)"
+4,10,Linda,"(putting a burnt pie on the floor by Perry) Oh, here you go, Perry. (Perry unwillingly sinks his teeth into the pie) I burnt another one. (Shot of Linda as she takes her oven mitts off. She looks rather baggy-eyed.) I guess that's what I get for staying up all night. Unless I get my act together that means plenty more for you, Perry."
 4,10,Linda,Lawrence Red leather yellow leather red leather yellow leather red leather yellow leather...
 4,10,Linda,"Lawrence, what on Earth are you doing?"
 4,10,Lawrence,"Oh, just a few vocal exercises before my big speech for the committee of the Danville Museum. Would you like a little sneak peek?"
@@ -24369,8 +24557,14 @@ Season,Episode,Name,Dialog
 4,13,Candace,"Excuse me, I just need to get to the food court."
 4,13,Tour Guide,"Please hold all your questions til the end. Those are the rules. (Candace walks backwards) And also, please refrain from gum chewing and there are no pets allowed on the tour. Also there are no cutsies or halfsies for funsies. (Candace attempts to unhook one of the velvet ropes.) And absolutely no crossing the stanchions, please! ¡No cruzar la cuerda por favor!"
 4,13,Doofenshmirtz,"To the basement! (a man walks up to the buttons and attempts to press up) Aah! Quit it! Fresh! (looks at the buttons) Alright, let's see, garage, basement, catacombs, pessimistic humanoid underground dwellings...Ah! Here it is"
-4,13,Isabella,"Who's a good boy?!Who's a good boy?!You're a good boy!Yes, you are!Yes, you are!"
-4,13,Buford,"It's me, right?I'm a good boy?You mean me, right?"
+4,13,Isabella,Who's a good boy?!
+4,13,Isabella,Who's a good boy?!
+4,13,Isabella,You're a good boy!
+4,13,Isabella,"Yes, you are!"
+4,13,Isabella,"Yes, you are!"
+4,13,Buford,"It's me, right?"
+4,13,Buford,I'm a good boy?
+4,13,Buford,"You mean me, right?"
 4,13,Baljeet,"Isabella, how does this help us with Pinky?"
 4,13,Isabella,"Easy, I've been rubbing his belly with Pinky's squeak toy. Now he's got the scent!"
 4,13,Buford,(pointing) He's this way! I can smell it!
@@ -25627,7 +25821,8 @@ Season,Episode,Name,Dialog
 4,21,Phineas,"This is just too important, and we can't afford any more setbacks! (Takes off her lanyard) I'm revoking your S.H.E.D. card. (Tears up the card) You have to go, NOW."
 4,21,Buford,I've always told her
 4,21,Isabella,Oh no! Baljeet! We've gotta go after him!
-4,21,Thor,"Sadly, there is no time. Our mission lies elsewhere.Isabella"
+4,21,Thor,"Sadly, there is no time. Our mission lies elsewhere."
+4,21,Isabella,"Well, I'll go after him then."
 4,21,Buford,"Nah, nah. I'll go. You stay here, little girl, it might get ugly."
 4,21,Isabella,What? You don't think I can handle ugly? I've been hangin' out with you all summer!
 4,21,Buford,Sticks and stones!
@@ -26408,7 +26603,7 @@ Season,Episode,Name,Dialog
 4,26,Vanessa,(hitting Derek) No no no! Bad bat! Spit him out!!
 4,26,Doofenshmirtz,"Oh, gross! (Derek grabs Doofenshmirtz with his feet and flies away.) Oh, yeah, this is much better!"
 4,26,Vanessa,"Dad!! Oh, hey, Perry. I was wondering if you could help me. (Perry grabs his jetpack and activates it.) Thanks, Perry. You're a peach."
-4,26,(A bat-looking man appears next to Vanessa.) Narthelliot,"So, what'd I miss?"
+4,26,Narthelliot,"So, what'd I miss?"
 4,26,Vanessa,"Oh, hey, Narthelliot! We were just talking about you."
 4,26,Jack,"Of course, even better than using a rover, we have these. We call them global surveillance satellites. No matter where you are on this Earth, there's always one of these flying above you in orbit, streaming live video to us here."
 4,26,Woman at Monitor,"That's right. Here's the outside of our building right now. And we can look up any location instantly. The Eiffel Tower, the Taj Mahal..."
@@ -26536,7 +26731,7 @@ Season,Episode,Name,Dialog
 4,28,Baljeet,Or a bottle cap!
 4,28,Isabella,"(Walking into the backyard) Hi, Phineas! What'cha doooin'?"
 4,28,Phineas,We're looking for stuff with Dad's steam-powered metal detector.
-4,28,Isabella,Wow! An antique that locates other antiques.(The steam-powered metal detector whistles like a tea kettle)
+4,28,Isabella,Wow! An antique that locates other antiques.
 4,28,Lawrence,"Oh, we've got another one."
 4,28,Buford,Cool! Let me dig it up.
 4,28,Lawrence,"Oh, there's a good lad."
@@ -26620,7 +26815,7 @@ Season,Episode,Name,Dialog
 4,28,Candace,"(Showing Linda) They built a giant machine that does their chores! It shucks the corn, and it shoots seeds out of a Gatling gu-uh...? (She sees that machine is no longer there) But, but, but..."
 4,28,Linda,"Candace, it's 1903. We do not use that word!"
 4,28,Von Doofenshmirtz,"(To the Lumière brothers) No, no, no, you're not getting my best side. But here, let me show you my worst side! (Von Doofenshmirtz's swan eats the camera and Louis with it) What? Sweary the Swan?! (Sweary the Swan shows up, driving Phineas and Ferb's chore-doing machine directly at Von Doofenshmirtz) Ah, you want to play swan chicken, huh? (Sweary rams into von Doofenshmirtz, then backs up for another go) Oh, no—get back here! (Sweary uses the chore-doing machine to fire corn into von Doofenshmirtz's robot's mouth) Oh, no, he's using the old foie gras maneuver!"
-4,28,(Present day)Lawrence,And that's the way it was at the Danville World's Fair.
+4,28,Lawrence,And that's the way it was at the Danville World's Fair.
 4,28,Phineas,"A giant, steam-powered, hammering swan? Come on, Dad, that sounds a little far-fetched for the time period, doesn't it?"
 4,28,Lawrence,"Oh, yes. Yes, it does."
 4,28,Von Doofenshmirtz,"Man, how long was I up there?"
@@ -28097,8 +28292,10 @@ Season,Episode,Name,Dialog
 4,37,Doofenshmirtz,"Curse you, Perry the...I guess he doesn't really get credit for this one. He was just playing tambourine with Swine Flute. It's not really.... (sighs) Well....Sort of anticlimactic for me."
 4,37,Buford,"So, where's Klimpy? Don't tell me he ditched us for one of those swanky afterparties."
 4,37,Phineas,I guess he's on his way back to the Himalayas.
-4,37,Klimpaloon,(waving from the limo) Nang nang nangnang nang nang nang...
-4,37,Phineas,See you later!Be cool!
+4,37,Klimpaloon,(waving from the limo) Nang nang nang
+4,37,Klimpaloon,nang nang nang nang...
+4,37,Phineas,See you later!
+4,37,Phineas,Be cool!
 4,37,Isabella,See ya!
 4,37,Buford,"See you, Klimpy!"
 4,37,Baljeet,Safe travels!
@@ -29087,7 +29284,7 @@ Season,Episode,Name,Dialog
 4,42,Doofenshmirtz,"Exactly, what better motivation is there? (zaps the entire audience and they storm the merchandise counter)"
 4,42,Candace,"Nice work, Stace! That last mega-wallow in the Razzleberry Swamp puts us back in second place. (lets go of the vacuum, which attempts to suck the rug right up)"
 4,42,Stacy,(on laptop) What?! I can barely hear you over the vacuum!
-4,42,Candace,"Oh, hang on. (leaves the room and the vacuum still on) Is that better?(Cut back to the seminar. One of the attendees is about to be videotaped.)"
+4,42,Candace,"Oh, hang on. (leaves the room and the vacuum still on) Is that better?"
 4,42,Doofenshmirtz,"(offscreen) Testimonials, take one."
 4,42,Man #3,I came to this seminar with no intention of buying anything and look at all this junk I bought!
 4,42,Man #4,"Holy cow, I bought a lotta stuff I don't need!"
@@ -29656,7 +29853,8 @@ Season,Episode,Name,Dialog
 4,43,Isabella,Ahhhhhhhhhhhhhhh!!!
 4,43,Phineas,Get away from her!
 4,43,Isabella,Phineas! Ah! No!
-4,43,Phineas,(Grunting)(transforming and giving her a clamp) Go! LLLLL....
+4,43,Phineas,(Grunting)
+4,43,Phineas,(transforming and giving her a clamp) Go! LLLLL....
 4,43,Doof zombie (Phineas),Lots of me...
 4,43,Isabella,"Oh, Phineas! (sniffles) Get it together, Fireside Girl! It's up to you to save Phineas! (climbs up the tower) It's up to you to save Danville! It's up to you... (Realizes what she is doing) to stop talking to yourself!"
 4,43,Isabella,Aaah! (grunting) Got...to...Go! (She presses the button successfully but still transforms and grunts) Lots of...
@@ -30136,7 +30334,7 @@ Season,Episode,Name,Dialog
 4,46,"Jeff ""Swampy"" Marsh","No, that's not actually true. We don't get a lot of actual, physical 'written on paper' letters..."
 4,46,Dan Povenmire,"No, no. That's true... That's true."
 4,46,"Jeff ""Swampy"" Marsh","...what we get is a lot of e-mails. Digital, electronic..."
-4,46,Dan Povenmire,"Yeah. A-Actually, all of the emails we've ever received fit on this flash drive right here. (He holds up a flash drive) But that's not as impressive as this...(Dan motions to the large pile of mail sitting behind them)"
+4,46,Dan Povenmire,"Yeah. A-Actually, all of the emails we've ever received fit on this flash drive right here. (He holds up a flash drive) But that's not as impressive as this..."
 4,46,"Jeff ""Swampy"" Marsh","No, this stack of, of letters here is much more impressive. This is a prop, though made mostly of, uh, foam, fiberglass, that kind of thing."
 4,46,Dan Povenmire,"Yeah. Not to say that we don't actually get letters from people. Physical letters. L-L-Like, this one's, for instance, from– from Becky. This is a question we get all the time. ""Are we ever going to see Perry the Platypus get a girlfriend?"""
 4,46,Dan and Swampy,No!
@@ -32459,7 +32657,8 @@ Season,Episode,Name,Dialog
 5,12,Isabella,"(angry) Well, I do have the most patches. So yes, I probably do have that basic patch! (she looks around) Um, what I mean to say is... (sighs) Let's focus, girls."
 5,12,Gretchen,The girls need someone to make a choice! To lead them!
 5,12,Isabella,"(pulling Gretchen aside) Gretchen, what's going on? We're always on the same page!"
-5,12,Gretchen,(angry) I think it's time I have my own page. (slaps Isabella's hand aside) A new page.
+5,12,Gretchen,(angry) I think it's time I have my own page.
+5,12,Gretchen,(slaps Isabella's hand aside) A new page.
 5,12,Girls,No! / I'm disagreeing with you!
 5,12,Doofenshmirtz,"(selecting himself) Oh, hello, handsome."
 5,12,Kiosk,Do you have a viable backstory?
