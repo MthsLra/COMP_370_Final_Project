@@ -13,7 +13,7 @@ def longest_dialogues(df, n):
     longest = df.loc[df['Dialog No Paren'].str.len().nlargest(n).index]
     return longest[['Name', 'Dialog']]
 
-def get_longest_dialogues_csv(df, char_name, exclude, longest_dialog_folder):
+def get_longest_dialogues_csv(df, char_name, exclude, longest_dialog_folder, n):
     exclude_char = exclude.get(char_name, [])
     print(exclude_char)
 
@@ -26,18 +26,19 @@ def get_longest_dialogues_csv(df, char_name, exclude, longest_dialog_folder):
 
     filtered_df = df[df['Name'].isin(names_filtered)]
     print(len(filtered_df))
-    longest_diags = longest_dialogues(filtered_df, 350)
+    longest_diags = longest_dialogues(filtered_df, n)
 
     if not os.path.exists(longest_dialog_folder):
         os.makedirs(longest_dialog_folder)
 
     filepathname = os.path.join(longest_dialog_folder, f'{char_name.replace(" ", "_")}_longest_dialogue.csv')
+    # filepathname = os.path.join(longest_dialog_folder, f'{char_name.replace(" ", "_")}_all_dialogue.csv')
     longest_diags.to_csv(filepathname, index=False)
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("n", type=str, help="number of lines")
+    parser.add_argument("n", type=int, help="number of lines")
     parser.add_argument("longest_dialog_folder", type=str, help="name of folder to put longest_dialogs")
     parser.add_argument("transcript", type=str, help="pathname to transcript")
     parser.add_argument("excluded_names", type=str, help="txt file with names to exclude")
@@ -60,10 +61,10 @@ def main():
     if args.name is None:
         # then we do everything in the dictionary
         for name in exclude.keys():
-            get_longest_dialogues_csv(df, name, exclude, args.longest_dialog_folder)
+            get_longest_dialogues_csv(df, name, exclude, args.longest_dialog_folder, args.n)
     else:
         # then we do the given name only
-        get_longest_dialogues_csv(df, args.name.lower(), exclude, args.longest_dialog_folder)
+        get_longest_dialogues_csv(df, args.name.lower(), exclude, args.longest_dialog_folder, args.n)
     
 
 

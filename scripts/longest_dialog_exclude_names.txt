@@ -41,6 +41,5 @@ Grulinda
 #major monogram
 #perry
 #stacy
-#suzy
 #vanessa
 All but Vanessa
