@@ -20,7 +20,34 @@ Food
 
 
 
+You are analyzing dialogue from a TV show. I will give you a list of speech acts that were all manually annotated as belonging to the same topic category.
+
+TASK:
+Read all the lines and produce a representative summary of what this category is about.
+Your summary should:
+
+Describe what unifies these lines.
+
+Identify the core theme, behavior, or subject matter.
+
+Be general, not referencing specific scenes.
+
+Be 1–3 sentences long.
+
+Avoid mentioning tf-idf, annotation, or how the data was collected.
+
+Avoid referencing any other categories.
+
+**CRITICAL** FORMAT:
+
+Output only the final category summary.
+
+Do not list the lines.
+
+Do not propose new categories.
+
+Here are the lines for this category:
 
 
 
-
+F
