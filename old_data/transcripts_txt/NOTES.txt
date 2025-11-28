@@ -1,3 +1,0 @@
-This is mostly data from github user captainsidd, although I fixed some of the episodes and rescraped some of them.
-I will probably just rescrape it all since this is 8 year old data, so it's not as clean probably. 
-https://github.com/captainsidd/phineas-ferb/tree/master
